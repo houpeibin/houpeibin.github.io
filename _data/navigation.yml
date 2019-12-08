@@ -1,22 +1,12 @@
+# File              : navigation.yml
+# Author            : Chi Han
+# Email             : haanchi@gmail.com
+# Date              : 08.12.2019
+# Last Modified Date: 08.12.2019
+# Last Modified By  : Chi Han
+#
+# Welcome to this little kennel of Glaciohound!
+
+
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
-
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Portfolio"
-    url: /portfolio/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
