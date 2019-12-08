@@ -27,5 +27,6 @@ Before that, I worked in MIG group at Tsinghua University under the supervision 
 [Jiajun Wu](https://jiajunwu.com/)
 <br />
 In Neural Information Processing Systems (NeurIPS) 2019
+<br />
 [[Project Page]](http://vcml.csail.mit.edu)
 [[BibTex]](http://vcml.csail.mit.edu/data/bibtex/2019NeurIPS-VCML.bib)
