@@ -1,3 +1,13 @@
+# File              : _config.yml
+# Author            : Chi Han
+# Email             : haanchi@gmail.com
+# Date              : 08.12.2019
+# Last Modified Date: 08.12.2019
+# Last Modified By  : Chi Han
+#
+# Welcome to this little kennel of Glaciohound!
+
+
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -122,6 +132,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - data
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
