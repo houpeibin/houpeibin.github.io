@@ -20,8 +20,8 @@ Before that, I worked in MIG group at Tsinghua University under the supervision 
 
 **Visual Concept-Metaconcept Learning**
 <br />
-[Chi Han*](https://hanchi.me), 
-[Jiayuan Mao*](http://jiayuanm.com), 
+[Chi Han\*](https://hanchi.me), 
+[Jiayuan Mao\*](http://jiayuanm.com), 
 [Chuang Gan](http://people.csail.mit.edu/ganchuang/), 
 [Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html), and
 [Jiajun Wu](https://jiajunwu.com/)
