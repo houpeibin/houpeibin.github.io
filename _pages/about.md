@@ -14,12 +14,11 @@ My research interest mainly lies in the intersection of Machine Learning and Cog
 In 2019, I spent time in [CoCoSci Group](http://cocosci.mit.edu), where I was supervised by [Prof. Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html).
 Before that, I worked in MIG group at Tsinghua University under the supervision of [Prof. Chongjie Zhang](http://people.iiis.tsinghua.edu.cn/~zhang/).
 
-### [View my CV](https://hanchi.me/data/CV.pdf)
+### You could [View my CV](https://hanchi.me/data/CV.pdf)
 
 ## Publications
 
-**Visual Concept-Metaconcept Learning**
-
+**Visual Concept-Metaconcept Learning**,
 [Chi Han*](https://hanchi.me), 
 [Jiayuan Mao*](http://jiayuanm.com), 
 [Chuang Gan](http://people.csail.mit.edu/ganchuang/), 
