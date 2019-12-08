@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "Chi Han"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "Undergraduate in Yao Class, Tsinghua University"
   location         : "Beijing, P.R. China"
   employer         :
