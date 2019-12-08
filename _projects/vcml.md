@@ -1,7 +1,7 @@
 ---
 title: "Visual Concept-Metaconcept Learning"
 excerpt: "Learning Visual Concepts and Relational Metaconcepts with a Language Interface"
-collection: portfolio
+collection: projects 
 ---
 
 Humans reason with concepts and metaconcepts: we recognize red and green from visual input; we also understand that they describe the same property of objects (i.e., the color).
