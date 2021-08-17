@@ -123,6 +123,7 @@ include:
   - _pages
   - files
   - data
+  - images
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

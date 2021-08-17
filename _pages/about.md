@@ -35,9 +35,9 @@ Chi Han,
 <br />
 In ACL-IJCNLP Findings 2021
 <br />
-[ArXiv]](https://arxiv.org/abs/2105.03095)
-[GitHub]](https://github.com/Glaciohound/Chimera-ST)
-[BibTex]](./data/chimera2021.bib)
+[[ArXiv]](https://arxiv.org/abs/2105.03095)
+[[GitHub]](https://github.com/Glaciohound/Chimera-ST)
+[[BibTex]](./data/chimera2021.bib)
 <br />
-[YouTube Brief (10min)]](https://youtu.be/jkrl0gjVIyQ)
-[Techbeat Talk (37min)]](https://www.techbeat.net/talk-info?id=571)
+[[YouTube Brief (10min)]](https://youtu.be/jkrl0gjVIyQ)
+[[Techbeat Talk (37min)]](https://www.techbeat.net/talk-info?id=571)
