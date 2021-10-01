@@ -20,6 +20,6 @@ Chenyi Zhang\*,
 Jiaqi Leng\*, and
 Tongyang Li
 <br />
-Quantum, 5:529, 2021. Single-track contributed talk at the 24th Annual Conference on Quantum Information Processing (QIP 2021).
+Quantum, 5:529, 2021. Single-track contributed talk at the 24th Annual Conference on Quantum Information Processing (QIP 2021). [[arXiv:2007.10253v3]](https://arxiv.org/abs/2007.10253v3)
 <br />
-[[arXiv:2007.10253v3]](https://arxiv.org/abs/2007.10253v3)
+
