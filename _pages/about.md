@@ -20,6 +20,8 @@ Tongyang Li, [Quantum algorithms for escaping from saddle points](https://arxiv.
 <br />
 (* marks equal contribution)
 
+**Chenyi Zhang**, and Tongyang Li, Escape saddle points by a simple gradient-descent based algorithm. To appear in the 35th Conference on Neural Information Processing Systems (**[NeurIPS 2021](https://neurips.cc)**).
+
 ## Services
 **Journal reviewer**: [Quantum](https://quantum-journal.org)
 <br />
