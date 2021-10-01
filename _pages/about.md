@@ -16,7 +16,7 @@ My name in Chinese: 张辰逸.
 
 **Quantum algorithms for escaping from saddle points**
 <br />
-Chenyi Zhang\*, 
+**Chenyi Zhang**\*, 
 Jiaqi Leng\*, and
 Tongyang Li
 <br />
