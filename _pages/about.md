@@ -23,10 +23,9 @@ Tongyang Li, [Quantum algorithms for escaping from saddle points](https://arxiv.
 ## Services
 **Journal reviewer**: [Quantum](https://quantum-journal.org)
 <br />
-**Conference reviewer**: 21th Asian Quantum Information Science Conference (AQIS’21)
+**Conference reviewer**: 21th Asian Quantum Information Science Conference ([AQIS’21](http://aqis-conf.org/2021/))
 <br />
 **Teaching assistant**: Quantum communication and cryptography, Tsinghua University, Fall 2021
-<br />
 <br />
 <br />
 <br />
