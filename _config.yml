@@ -83,12 +83,12 @@ author:
   name             : "Chenyi Zhang"
   avatar           : "profile.png"
   bio              : "Senior-year Undergraduate, Tsinghua University"
-  location         : ""
+  location         : 
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zhCN&user=mWQFnBwAAAAJ"
   email            : "chenyi-z18@mails.tsinghua.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "chenyizhang2000"
+  github           : #"chenyizhang2000"
   google_plus      :
   keybase          :
   instagram        :
