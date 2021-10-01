@@ -28,6 +28,9 @@ Tongyang Li, [Quantum algorithms for escaping from saddle points](https://arxiv.
 **Conference reviewer**: 21th Asian Quantum Information Science Conference ([AQIS’21](http://aqis-conf.org/2021/))
 <br />
 **Teaching assistant**: Quantum communication and cryptography, Tsinghua University, Fall 2021
+
+## Awards & Honors
+2017, Gold Medal, Chinese Physics Olympiad (Top 100 around China)
 <br />
 <br />
 <br />
