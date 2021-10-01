@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a senior-year undergraduate student in the Institute for Interdisciplinary Information Sciences (Yao Classs) at Tsinghua University. I am interested in quantum computing and quantum algorithms.
+I am a senior-year undergraduate student in the Institute for Interdisciplinary Information Sciences (Yao Class) at Tsinghua University. I am interested in quantum computing and quantum algorithms.
 
 My name in Chinese: 张辰逸.
 
