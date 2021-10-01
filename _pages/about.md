@@ -17,26 +17,8 @@ My name in Chinese: 张辰逸.
 **Quantum algorithms for escaping from saddle points**
 <br />
 Chi Han\*, 
-[Jiaqi Leng\*], and
-[Tongyang Li]
+Jiaqi Leng\*, and
+Tongyang Li
 <br />
-In Neural Information Processing Systems (NeurIPS) 2019
+Quantum, 5:529, 2021. Single-track contributed talk at the 24th Annual Conference on Quantum Information Processing (QIP 2021). [arXiv:2007.10253v3](https://arxiv.org/abs/2007.10253v3)
 <br />
-[[Project Page]](http://vcml.csail.mit.edu)
-[[BibTex]](http://vcml.csail.mit.edu/data/bibtex/2019NeurIPS-VCML.bib)
-
-**Chimera: Jointly Translating Speech and Text**
-<br />
-Chi Han, 
-[Mingxuan Wang](https://mingxuan.github.io/),
-[Heng Ji](http://blender.cs.illinois.edu/hengji.html), and
-[Lei Li](https://sites.cs.ucsb.edu/~lilei/),
-<br />
-In ACL-IJCNLP Findings 2021
-<br />
-[[ArXiv]](https://arxiv.org/abs/2105.03095)
-[[GitHub]](https://github.com/Glaciohound/Chimera-ST)
-[[BibTex]](./data/chimera2021.bib)
-<br />
-[[YouTube Brief (10min)]](https://youtu.be/jkrl0gjVIyQ)
-[[Techbeat Talk (37min)]](https://www.techbeat.net/talk-info?id=571)
