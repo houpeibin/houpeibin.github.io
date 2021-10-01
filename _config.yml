@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chi Han (Glaciohound)"
+title                    : "Chenyi Zhang"
 title_separator          : "-"
-name                     : &name "Chi Han"
+name                     : &name "Chenyi Zhang"
 description              : &description "personal website"
-url                      : https://Glaciohound.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://chenyizhang2000.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "Glaciohound/Glaciohound.github.io"
+repository               : "chenyizhang2000/chenyizhang2000.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Chi Han"
+  name             : "Chenyi Zhang"
   avatar           : "profile.png"
-  bio              : "Computer Science Ph.D. candidate in UIUC"
-  location         : "Somewhere in P.R. China"
+  bio              : "Senior-year Undergraduate, Tsinghua University"
+  location         : ""
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=DcSvbuAAAAAJ"
-  email            : "haanchi@qq.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=zhCN&user=mWQFnBwAAAAJ"
+  email            : "chenyi-z18@mails.tsinghua.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Glaciohound"
+  github           : "chenyizhang2000"
   google_plus      :
   keybase          :
   instagram        :
