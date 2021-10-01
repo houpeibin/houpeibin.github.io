@@ -8,23 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am Chi Han (韩迟), an incoming Ph.D. candidate in Computer Science to UIUC, to be supervised by Prof. Heng Ji.
-My research interest resides in how language is organized, perceived, and understood, and more generally how these applies to the tasks of NLP.
+I am a senior-year undergraduate student in the Institute for Interdisciplinary Information Sciences (Yao Classs) at Tsinghua University. I am interested in quantum computing and quantum algorithms.
 
-My undergraduate years were spent at Yao Class in Tsinghua University from 2016 to 2020.
-I also interned at [CocoSci Group](https://cocosci.mit.edu/) in 2019
-working with Prof. [Joshua Tenenbaum](https://cocosci.mit.edu/josh) and Prof. [Jiajun Wu](https://jiajunwu.com/),
-and at [ByteDance AI Lab](https://ailab.bytedance.com/) from 2020 to 2021 working with Prof. [Lei Li](https://sites.cs.ucsb.edu/~lilei/).
+My name in Chinese: 张辰逸.
 
 ## Publications
 
-**Visual Concept-Metaconcept Learning**
+**Quantum algorithms for escaping from saddle points**
 <br />
 Chi Han\*, 
-[Jiayuan Mao\*](http://jiayuanm.com), 
-[Chuang Gan](http://people.csail.mit.edu/ganchuang/), 
-[Joshua B. Tenenbaum](https://web.mit.edu/cocosci/josh.html), and
-[Jiajun Wu](https://jiajunwu.com/)
+[Jiaqi Leng\*], and
+[Tongyang Li]
 <br />
 In Neural Information Processing Systems (NeurIPS) 2019
 <br />
